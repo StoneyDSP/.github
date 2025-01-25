@@ -18,4 +18,4 @@
 | |
 | [![AudioPlugin-SVF](https://github-readme-stats.vercel.app/api/pin/?username=nathanjhood\&repo=AudioPlugin-SVF\&theme=transparent)](https://github.com/nathanjhood/AudioPlugin-SVF) [![AudioPlugin](https://github-readme-stats.vercel.app/api/pin/?username=nathanjhood\&repo=AudioPlugin\&theme=transparent)](https://github.com/nathanjhood/AudioPlugin) |
 | |
-| <p>*we = just <a href="https://github.com/nathanjhood">me</a>, for now! </p> |
+| <p>*we = just <a href="https://github.com/nathanjhood">me</a>, for now! Please note that there exists other peoples or entities in the social media space with the name "StoneyDSP" which is *not* associated with ourselves in any way - just unfortunate coincidence. If it is *not* about audio DSP, it is probably *not* me! </p> |
