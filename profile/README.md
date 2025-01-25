@@ -2,6 +2,8 @@
 | :-: |
 | <p>I am making audio plugins, and a custom C++ library.</p> |
 | |
+| <p>Please note that there exists other peoples or entities in the social media space with the name "StoneyDSP" which is *not* associated with ourselves in any way - just unfortunate coincidence. If it is *not* about audio DSP, it is probably *not* me!</p> |
+| |
 | <p>You may use this library to build your own audio software with on MIT license.</p> |
 | |
 | <p>We are still in the early days of construction, so please consider bookmarking and keeping on eye on development! </p> |
